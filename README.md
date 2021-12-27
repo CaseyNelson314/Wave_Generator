@@ -2,7 +2,7 @@
 
 様々な波を出力できます
 
-![](/sine_wave)
+![](/sine_wave.png)
 
 ## wave type
 - 正弦波
