@@ -4,14 +4,14 @@
 
 ![](/sine_wave.png)
 
-## wave type
+## Wave type
 - 正弦波
 - 方形波
 - のこぎり波
 - 三角波
 - 台形波
 
-# function list
+## function list
 - setter
 ```
 void Update
